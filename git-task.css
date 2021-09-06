@@ -1,4 +1,10 @@
 h1{
+<<<<<<< HEAD
     color: blueviolet;
     font-style: italic; 
+=======
+    color: blueviolet;   
+    background-color: blanchedalmond;
+    text-align: center; 
+>>>>>>> 21a2c134008595e2a52605797239634fdc01ebb2
 }
